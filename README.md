@@ -4,6 +4,5 @@ Social Network Analysis (Twitter) as part of https://github.com/lianaparas/final
 
 <b>Reply Network Graph - Largest Component Graph with Pagerank Score Visualization</b>
 
-
-     Page Link :
+Page Link :
           https://lianaparas.github.io/graph02/index.html
